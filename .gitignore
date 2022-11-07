@@ -1,6 +1,9 @@
 # Mac nonsense
 .DS_Store
 
+# Node nonsense
+node_modules
+
 # Yarn nonsense
 .yarn/*
 !.yarn/cache
