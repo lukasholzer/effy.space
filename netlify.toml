@@ -1,4 +1,5 @@
 [build]
-  publish = "site/"
+  command = "yarn build"
+  publish = "build/"
 [[plugins]]
   package = "netlify-plugin-clacks"

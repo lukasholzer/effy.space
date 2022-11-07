@@ -1,7 +1,11 @@
 {
   "name": "effy.space",
   "packageManager": "yarn@3.2.4",
+  "scripts": {
+    "build": "cp -r site/ build/ && purgecss --css site/assets/css/* --content site/index.html --output build/assets/css/"
+  },
   "devDependencies": {
-    "netlify-plugin-clacks": "^1.0.0"
+    "netlify-plugin-clacks": "^1.0.0",
+    "purgecss": "^5.0.0"
   }
 }
