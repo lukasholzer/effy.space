@@ -1,0 +1,7 @@
+{
+  "name": "effy.space",
+  "packageManager": "yarn@3.2.4",
+  "devDependencies": {
+    "netlify-plugin-clacks": "^1.0.0"
+  }
+}

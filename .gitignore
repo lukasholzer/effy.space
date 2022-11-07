@@ -1,2 +1,11 @@
 # Mac nonsense
 .DS_Store
+
+# Yarn nonsense
+.yarn/*
+!.yarn/cache
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
