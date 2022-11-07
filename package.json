@@ -6,6 +6,7 @@
   },
   "devDependencies": {
     "netlify-plugin-clacks": "^1.0.0",
+    "netlify-plugin-inline-critical-css": "^2.0.0",
     "purgecss": "^5.0.0"
   }
 }
