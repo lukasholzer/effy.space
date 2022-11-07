@@ -4,4 +4,4 @@
 [[plugins]]
   package = "netlify-plugin-clacks"
 [[plugins]]
-  package = "netlify-plugin-inline-critical-css"
+  package = "netlify-plugin-inline-source"
